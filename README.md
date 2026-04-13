@@ -43,7 +43,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 * Python (Colab)
 
 
-# Product Backlog
+# Backlog do Produto
 
 | Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
