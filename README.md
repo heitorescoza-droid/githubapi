@@ -47,21 +47,21 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 | Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
-| 1    | Alta       | Como analista de dados, quero coletar dados públicos para construir a base do projeto                                                                   |         | 1      |
-| 2    | Alta       | Como analista, quero organizar os dados para facilitar o uso                                                                                            |           | 1      |
-| 3    | Alta       | Como analista, quero tratar e limpar os dados no Python para garantir qualidade                                                                         |           | 1      |
-| 4    | Alta       | Como usuário, quero visualizar os principais setores para entender o perfil econômico                                                                   |          | 1      |
+| 1    | Alta       | Como analista de dados, quero coletar dados públicos para construir a base do projeto                                                                   |         | 01      |
+| 2    | Alta       | Como analista, quero organizar os dados para facilitar o uso                                                                                            |           | 01      |
+| 3    | Alta       | Como analista, quero tratar e limpar os dados no Python para garantir qualidade                                                                         |           | 01      |
+| 4    | Alta       | Como usuário, quero visualizar os principais setores para entender o perfil econômico                                                                   |          | 01      |
 | 5    | Alta       | Como usuário, quero visualizar gráficos simples para interpretar os dados  
-| 6    | Alta       | Como usuário, quero acessar um dashboard inicial no Power BI                                                                                            |           | 2      ||           | 1      |
-| 7    | Média      | Como usuário, quero comparar setores econômicos para entender diferenças                                                                                |           | 2      |
-| 8    | Média      | Como analista, quero calcular indicadores econômicos para enriquecer a análise                                                                          |           | 2      |
-| 9    | Média      | Como usuário, quero identificar atividades predominantes para melhor análise                                                                            |          | 2      |
-| 10   | Média      | Como usuário, quero visualizar dados de forma mais detalhada                                                                                            |           | 2      |
-| 11   | Alta       | Como usuário, quero um dashboard interativo completo para explorar os dados                                                                             |           | 3      |  
-| 12   | Alta       | Como equipe, queremos revisar e validar o sistema para garantir qualidade                                                                               |          | 3      |
-| 13   | Média      | Como usuário, quero visualizar a distribuição geográfica dos setores                                                                                    |           | 3      |
-| 14   | Baixa      | Como usuário, quero melhorar a interface para melhor experiência                                                                                        |           | 3      |
-| 15   | Baixa      | Como usuário, quero exportar dados e relatórios                                                                                                         |           | 3      |
+| 6    | Alta       | Como usuário, quero acessar um dashboard inicial no Power BI                                                                                            |           | 02      ||           | 01      |
+| 7    | Média      | Como usuário, quero comparar setores econômicos para entender diferenças                                                                                |           | 02      |
+| 8    | Média      | Como analista, quero calcular indicadores econômicos para enriquecer a análise                                                                          |           | 02      |
+| 9    | Média      | Como usuário, quero identificar atividades predominantes para melhor análise                                                                            |          | 02      |
+| 10   | Média      | Como usuário, quero visualizar dados de forma mais detalhada                                                                                            |           | 02      |
+| 11   | Alta       | Como usuário, quero um dashboard interativo completo para explorar os dados                                                                             |           | 03      |  
+| 12   | Alta       | Como equipe, queremos revisar e validar o sistema para garantir qualidade                                                                               |          | 03      |
+| 13   | Média      | Como usuário, quero visualizar a distribuição geográfica dos setores                                                                                    |           | 03      |
+| 14   | Baixa      | Como usuário, quero melhorar a interface para melhor experiência                                                                                        |           | 03      |
+| 15   | Baixa      | Como usuário, quero exportar dados e relatórios                                                                                                         |           | 03      |
 
 
   
