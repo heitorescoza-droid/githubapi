@@ -38,8 +38,8 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 ## Tecnologias Utilizadas
 
-* Power BI
 * Microsoft Excel
+* Power BI
 * Python (Colab)
 
 
