@@ -47,11 +47,23 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 | Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
-| 1    | Alta       | Como síndico, quero abrir solicitações de vistoria predial para atender à legislação de meu município                                                    | 5          | 1      |
-| 2    | Alta       | Como atendente, quero gerenciar as solicitações de vistoria para agendar atendimento                                                                    | 8          | 1      |
-| 3    | Alta       | Como síndico, quero receber o laudo da vistoria predial para anexar ao processo de auditoria da prefeitura                                               | 5          | 2      |
-| ...  | Média      | ...                                                                                                                                                     | ...        | ...    |
-| 17   | Baixa      | Como atendente, quero um relatório de aniversários dos funcionários do condomínio que utilizam o sistema para enviar cartões acompanhados de brindes     | 2          | 3      |
+| 1    | Alta       | Como analista de dados, quero coletar dados públicos para construir a base do projeto                                                                   | 2          | 1      |
+| 2    | Alta       | Como analista, quero organizar os dados para facilitar o uso                                                                                            | 1          | 1      |
+| 3    | Alta       | Como analista, quero tratar e limpar os dados no Python para garantir qualidade                                                                         | 2          | 1      |
+| 4    | Alta       | Como usuário, quero visualizar os principais setores para entender o perfil econômico                                                                   | 1          | 1      |
+| 5    | Alta       | Como usuário, quero visualizar gráficos simples para interpretar os dados                                                                               | 1          | 1      |
+
+| 6    | Média      | Como usuário, quero comparar setores econômicos para entender diferenças                                                                                | 1          | 2      |
+| 7    | Média      | Como analista, quero calcular indicadores econômicos para enriquecer a análise                                                                          | 2          | 2      |
+| 8    | Média      | Como usuário, quero identificar atividades predominantes para melhor análise                                                                            | 1          | 2      |
+| 9    | Média      | Como usuário, quero visualizar dados de forma mais detalhada                                                                                            | 2          | 2      |
+| 10   | Alta       | Como usuário, quero acessar um dashboard inicial no Power BI                                                                                            | 2          | 2      |
+
+| 11   | Alta       | Como usuário, quero um dashboard interativo completo para explorar os dados                                                                             | 2          | 3      |
+| 12   | Média      | Como usuário, quero visualizar a distribuição geográfica dos setores                                                                                    | 2          | 3      |
+| 13   | Baixa      | Como usuário, quero melhorar a interface para melhor experiência                                                                                        | 1          | 3      |
+| 14   | Baixa      | Como usuário, quero exportar dados e relatórios                                                                                                         | 1          | 3      |
+| 15   | Alta       | Como equipe, queremos revisar e validar o sistema para garantir qualidade                                                                               | 2          | 3      |
 
 
 
