@@ -52,13 +52,11 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 | 3    | Alta       | Como analista, quero tratar e limpar os dados no Python para garantir qualidade                                                                         | 2          | 1      |
 | 4    | Alta       | Como usuário, quero visualizar os principais setores para entender o perfil econômico                                                                   | 1          | 1      |
 | 5    | Alta       | Como usuário, quero visualizar gráficos simples para interpretar os dados                                                                               | 1          | 1      |
-
 | 6    | Média      | Como usuário, quero comparar setores econômicos para entender diferenças                                                                                | 1          | 2      |
 | 7    | Média      | Como analista, quero calcular indicadores econômicos para enriquecer a análise                                                                          | 2          | 2      |
 | 8    | Média      | Como usuário, quero identificar atividades predominantes para melhor análise                                                                            | 1          | 2      |
 | 9    | Média      | Como usuário, quero visualizar dados de forma mais detalhada                                                                                            | 2          | 2      |
 | 10   | Alta       | Como usuário, quero acessar um dashboard inicial no Power BI                                                                                            | 2          | 2      |
-
 | 11   | Alta       | Como usuário, quero um dashboard interativo completo para explorar os dados                                                                             | 2          | 3      |
 | 12   | Média      | Como usuário, quero visualizar a distribuição geográfica dos setores                                                                                    | 2          | 3      |
 | 13   | Baixa      | Como usuário, quero melhorar a interface para melhor experiência                                                                                        | 1          | 3      |
