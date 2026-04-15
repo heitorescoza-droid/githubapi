@@ -52,6 +52,7 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 | 3    | Alta       | Como analista, quero tratar e limpar os dados no Python para garantir qualidade                                                                         |           | 01      |
 | 4    | Alta       | Como usuário, quero visualizar os principais setores para entender o perfil econômico                                                                   |          | 01      |
 | 5    | Alta       | Como usuário, quero visualizar gráficos simples para interpretar os dados  
+|           | 02    |
 | 6    | Alta       | Como usuário, quero acessar um dashboard inicial no Power BI                                                                                            |           | 02      ||           | 01      |
 | 7    | Média      | Como usuário, quero comparar setores econômicos para entender diferenças                                                                                |           | 02      |
 | 8    | Média      | Como analista, quero calcular indicadores econômicos para enriquecer a análise                                                                          |           | 02      |
