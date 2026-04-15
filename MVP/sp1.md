@@ -4,7 +4,13 @@
 > Descrever de forma clara qual é o propósito do MVP:  
 - Qual problema resolve?  
 - Qual hipótese será validada?  
-- Qual valor será entregue ao usuário final?  
+- Qual valor será entregue ao usuário final?
+ O objetivo deste MVP é desenvolver um dashboard interativo que permita visualizar e analisar os principais setores econômicos de São José dos Campos com base em dados da RAIS.
+O problema que o projeto resolve é a falta de visualização clara e organizada sobre a distribuição dos setores econômicos da região.
+
+A hipótese validada é que, ao transformar dados brutos em visualizações, é possível facilitar a compreensão e apoiar a tomada de decisão.
+
+O valor entregue ao usuário final é a visualização simples e intuitiva dos dados econômicos. 
 
 ---
 
