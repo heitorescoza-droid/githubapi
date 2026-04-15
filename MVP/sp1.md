@@ -8,16 +8,21 @@
 
 O objetivo deste MVP é desenvolver um dashboard interativo que permita visualizar e analisar os principais setores econômicos de São José dos Campos com base em dados da RAIS.
 O problema que o projeto resolve é a falta de visualização clara e organizada sobre a distribuição dos setores econômicos da região.
-
 A hipótese validada é que, ao transformar dados brutos em visualizações, é possível facilitar a compreensão e apoiar a tomada de decisão.
-
 O valor entregue ao usuário final é a visualização simples e intuitiva dos dados econômicos. 
 
 ---
 
 ## 📝 Descrição da Solução
-> Breve explicação do que será desenvolvido e entregue nesta etapa.  
-- Funcionalidades principais incluídas  
+> Breve explicação do que será desenvolvido e entregue nesta etapa.
+
+Será desenvolvido um dashboard no Power BI com dados tratados da RAIS, apresentando informações sobre os principais setores econômicos da cidade.
+- Funcionalidades principais incluídas
+
+Visualização de setores econômicos
+Gráficos de comparação entre setores
+Filtro por setor
+ 
 - Limitações conhecidas  
 - Escopo reduzido (somente o essencial para validar a ideia)  
 
