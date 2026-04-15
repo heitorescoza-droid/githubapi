@@ -6,12 +6,10 @@
 - Qual hipótese será validada?  
 - Qual valor será entregue ao usuário final?
 
-O objetivo deste MVP é desenvolver um dashboard interativo que permita visualizar e analisar os principais setores econômicos de São José dos Campos com base em dados da RAIS.
-O problema que o projeto resolve é a falta de visualização clara e organizada sobre a distribuição dos setores econômicos da região.
-A hipótese validada é que, ao transformar dados brutos em visualizações, é possível facilitar a compreensão e apoiar a tomada de decisão.
-O valor entregue ao usuário final é a visualização simples e intuitiva dos dados econômicos. 
-
----
+O objetivo deste MVP é desenvolver um dashboard interativo que permita ao usuário visualizar e analisar o ecossistema dos principais setores econômicos de São José dos Campos com base em dados extraídos da base RAIS.
+O problema que o projeto resolve é a falta de um visualizador claro e organizado que apresente a distribuição desses setores na região de São José dos Campos.
+A hipótese validada é que, ao transformar dados brutos em visualizações tangíveis, é possível facilitar a compreensão e apoiar a tomada de decisão.
+O valor entregue ao usuário final é a visualização simples e intuitiva dos dados econômicos.
 
 ## 📝 Descrição da Solução
 > Breve explicação do que será desenvolvido e entregue nesta etapa.
