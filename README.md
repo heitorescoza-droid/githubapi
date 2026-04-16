@@ -47,16 +47,16 @@ Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma 
 
 | Rank | Prioridade | User Story                                                                                                                                              | Estimativa | Sprint |
 |------|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------|------------|--------|
-| 1    | Alta       | Como analista, quero organizar os dados para facilitar o uso                                                                                            |           | 01      |
-| 2    | Alta       | Como usuário, quero visualizar os principais setores para entender o perfil econômico                                                                   |          | 01      |
-| 3    | Alta       | Como usuário, quero acessar um dashboard inicial no Power BI                                                                                             |           | 01    |   
-| 4    | Alta       | Como usuário, quero visualizar gráficos simples para interpretar os dados                                                                   |           | 02      ||           | 01      |
-| 5    | Média      | Como usuário, quero comparar setores econômicos para entender diferenças                                                                                |           | 02      |
-| 6    | Média      | Como analista, quero calcular indicadores econômicos para enriquecer a análise                                                                          |           | 02      |
-| 7   | Média      | Como usuário, quero visualizar dados de forma mais detalhada                                                                                            |           | 02      |
-| 8   | Alta       | Como usuário, quero um dashboard interativo completo para explorar os dados                                                                             |           | 03      |  
-| 9   | Média      | Como usuário, quero visualizar a distribuição geográfica dos setores                                                                                    |           | 03      |
-| 10   | Baixa      | Como usuário, quero exportar dados e relatórios                                                                                                         |           | 03      |
+| 1    | Alta       | Como gestor público, quero os dados organizados e tratados                                                                                            |           | 01      |
+| 2    | Alta       | Como gestor público, quero visualizar os principais setores para entender o perfil econômico                                                                   |          | 01      |
+| 3    | Alta       | Como gestor público, quero acessar um dashboard inicial no Power BI                                                                                             |           | 01    |   
+| 4    | Alta       | Como gestor público, quero visualizar gráficos simples para interpretar os dados                                                                   |           | 02      ||           | 01      |
+| 5    | Média      | Como gestor público, quero comparar setores econômicos para entender diferenças                                                                                |           | 02      |
+| 6    | Média      | Como gestor público, quero calcular indicadores econômicos para enriquecer a análise                                                                          |           | 02      |
+| 7   | Média      | Como gestor público, quero visualizar dados de forma mais detalhada                                                                                            |           | 02      |
+| 8   | Alta       | Como gestor público, quero um dashboard interativo completo para explorar os dados                                                                             |           | 03      |  
+| 9   | Média      | Como gestor público, quero visualizar a distribuição geográfica dos setores                                                                                    |           | 03      |
+| 10   | Baixa      | Como gestor público, quero exportar dados e relatórios                                                                                                         |           | 03      |
 
 
   
