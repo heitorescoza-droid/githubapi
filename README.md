@@ -1,9 +1,8 @@
 # Aprendizado por Projeto Integrado (API) - Engenharia de Produção 
 
-Template para os projetos de API, ensinando na utilização do repositório digital "GitHub". 
+# Introdução
 
-Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividade, Autonomia, Colaboração e Entrega de Resultados dos estudantes envolvidos.
-
+Este projeto tem como proposta analisar o ecossistema econômico de São José dos Campos por meio de dados da base RAIS (Relação Anual de Informações Sociais). A ideia surge da necessidade de organizar e facilitar a interpretação dessas informações, que geralmente estão disponíveis em formato bruto e de difícil compreensão. Para isso, será desenvolvido um dashboard interativo, com o objetivo de transformar os dados em gráficos e visualizações que permitam identificar os principais setores econômicos da região e a distribuição de empregos,  o projeto busca tornar os dados mais acessíveis e intuitivos, contribuindo para uma análise mais clara da realidade econômica local e auxiliando na compreensão das informações.
 # Índice
 * [Equipe](#Equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
@@ -28,13 +27,15 @@ Os resultados dos projetos devem obedecer ao Aviso Legal disponível no site da 
 |  Team Member  | Rosario Villanueva              |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/)   |
 
 # Objetivo do Projeto
-Este projeto tem como objetivo ajudar e facilitar na utilização da plataforma GitHub, visando:
-* Centralizar os trabalhos e projetos;
-* Organizar e estruturar as informações;
-* Versionar e controlar as alterações;
-* Facilitar o compartilhamento e feedback;
-* Desenvolver habilidades técnicas.
+Este projeto tem como objetivo desenvolver um dashboard interativo para análise do ecossistema econômico de São José dos Campos, utilizando dados da base RAIS.
 
+A proposta é transformar dados brutos em informações visuais que permitam:
+
+* Identificar e classificar os principais setores econômicos da região
+* Representação geográfica das principais empresas 
+* Analisar a distribuição de empregos
+* Criação de gráficos que falicitam a interpretação de dados econômicos
+* Apoiar a futura iniciativa de tomada de decisão de gestão pública 
 
 ## Tecnologias Utilizadas
 
