@@ -64,8 +64,8 @@ Filtro por setor
 ---
 
 ## 🚀 Próximos Passos
-- Melhorias planejadas após feedback  
-- Ajustes de usabilidade  
+- Transformar a usabilidade em dashboard interativo; 
+- Relacionar os dados qualitativos e quantitativos, gerando hipóteses a serem respondidas pelo sistema elaborado; 
 - Expansão de funcionalidades para próximo incremento  
 
 ---
