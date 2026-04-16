@@ -1,4 +1,4 @@
-# 📌 MVP - [Nome do Projeto] 
+# 📌 MVP - [Aprendizagem por Projetos integrados - API] 
 
 ## 🎯 Objetivo do MVP
 > Descrever de forma clara qual é o propósito do MVP:  
