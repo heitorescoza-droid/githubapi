@@ -37,7 +37,7 @@ Filtro por setor
 |-----|-----------------------------------------------------------------------------|------------|------------|
 | US1 |Como gestor público, quero os dados organizados e tratados	                  | Alta	|
 | US2 | Como gestor público, quero visualizar os principais setores para entender o perfil econômico	 |	Alta |
-| US3 | Como gestor público, quero acessar um dashboard inicial no Power BI	         | Média      | 
+| US3 | Como gestor público, quero acessar um dashboard inicial no Power BI	         | Alta      | 
 
 ---
 
