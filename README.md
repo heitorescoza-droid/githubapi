@@ -1,4 +1,5 @@
 # Aprendizado por Projeto Integrado (API) - Engenharia de Produção 
+<img width="250" height="150" alt="Gemini_Generated_Image_s279zzs279zzs279" src="https://github.com/user-attachments/assets/30f916ef-c738-4fe7-949b-331f571d1af7" />
 
 # Introdução
 
