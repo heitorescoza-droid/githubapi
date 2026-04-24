@@ -6,25 +6,22 @@
 - Qual hipótese será validada?  
 - Qual valor será entregue ao usuário final?
 
-O objetivo deste MVP é desenvolver um dashboard interativo que permita ao usuário visualizar e analisar o ecossistema dos principais setores econômicos de São José dos Campos com base em dados extraídos da base RAIS.
-O problema que o projeto resolve é a falta de um visualizador claro e organizado que apresente a distribuição desses setores na região de São José dos Campos.
-A hipótese validada é que, ao transformar dados brutos em visualizações tangíveis, é possível facilitar a compreensão e apoiar a tomada de decisão.
-O valor entregue ao usuário final é a visualização simples e intuitiva dos dados econômicos.
+O MVP tem como objetivo disponibilizar uma base de dados organizada, tratada e apresentada de forma visual em um dashboard inicial, permitindo a compreensão rápida do perfil econômico e os principais setores de São José dos Campos e região.
+
+Ele resolve o problema da dispersão e da baixa usabilidade dos dados brutos, que dificultam análises ágeis e tomadas de decisão informadas. Atualmente, esses dados podem estar desestruturados ou pouco acessíveis, exigindo esforço técnico elevado para interpretação.
+
+A hipótese a ser validada é que, ao oferecer dados estruturados e visualizações claras em um dashboard inicial, gestores públicos conseguirão identificar padrões econômicos relevantes com mais rapidez e eficiência, apoiando decisões estratégicas.
+
+O valor entregue ao usuário final é a capacidade de acessar, em um único ambiente, informações confiáveis e organizadas sobre os principais setores econômicos, reduzindo o tempo de análise e aumentando a qualidade das decisões baseadas em dados.
 
 ## 📝 Descrição da Solução
 > Breve explicação do que será desenvolvido e entregue nesta etapa.
 
-Será desenvolvido um dashboard no Power BI com dados tratados da RAIS, apresentando informações sobre os principais setores econômicos da cidade.
-- Funcionalidades principais incluídas
+**📝 Descrição da Solução**
 
-Visualização de setores econômicos
-Gráficos de comparação entre setores
-Filtro por setor
- 
-- Limitações conhecidas  
-- Escopo reduzido (somente o essencial para validar a ideia)  
+Nesta etapa, será desenvolvido o tratamento e organização de dados econômicos, estruturando essas informações em uma base confiável e pronta para análise. A solução incluirá a construção de um dashboard inicial no Power BI, onde os dados serão apresentados de forma visual, destacando os principais setores econômicos e indicadores relevantes.
 
----
+O foco é entregar uma ferramenta simples, funcional e intuitiva, que permita ao gestor público acessar rapidamente informações consolidadas e compreender o panorama econômico sem a necessidade de manipulação manual de dados. Essa primeira versão prioriza clareza, usabilidade e geração de insights básicos, servindo como base para evoluções futuras mais robustas.
 
 ## 👥 Personas / Usuários-Alvo
 - **Persona 1:** breve descrição, necessidades e dores atendidas  
@@ -43,21 +40,22 @@ Filtro por setor
 
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
-
-| 01     | [Funcionalidade X, Y]                        | Concluído|
-| 02     | [Funcionalidade Z]                           | Em andamento |
+|--------|----------------------------------------------|------------|
+| 01     | Organização, tratamento e visualização dos principais setores industriais e de serviços| Concluído|
+| 02     |----------------------------------------------| Pendente |
+| 03     |---------------------------------------------| Pendente |
 
 ---
 
 ## 📊 Critérios de Aceitação
-- O MVP deve permitir que o usuário [ação principal]  
+- O MVP deve permitir que o usuário visualize um dashboard inicial com os dados da base RAIS tratados e organizados sobre os setores industriais e de serviços
 - O sistema deve registrar [evento importante]  
 - Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]  
 
 ---
 
 ## 📈 Métricas de Validação
-- Número de usuários que testaram o MVP  
+- Número de usuários que testaram o MVP  5
 - Feedback qualitativo (positivo/negativo)  
 - Indicadores de negócio (exemplo: % de adesão, redução de custo, etc.)  
 
