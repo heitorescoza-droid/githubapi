@@ -9,7 +9,7 @@ Este projeto tem como proposta analisar o ecossistema econômico de São José d
 * [Backlog do Produto](#Backlog-do-Produto)
 * [Registro das Sprints](#Registro-das-Sprints)
 * [Competências Desenvolvidas](#competências-desenvolvidas)
-* * [Equipe](#Equipe)
+* [Equipe](#Equipe)
 
 
 
