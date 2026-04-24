@@ -5,11 +5,11 @@
 
 Este projeto tem como proposta analisar o ecossistema econômico de São José dos Campos por meio de dados da base RAIS (Relação Anual de Informações Sociais). A ideia surge da necessidade de organizar e facilitar a interpretação dessas informações, que geralmente estão disponíveis em formato bruto e de difícil compreensão. Para isso, será desenvolvido um dashboard interativo, com o objetivo de transformar os dados em gráficos e visualizações que permitam identificar os principais setores econômicos da região e a distribuição de empregos,  o projeto busca tornar os dados mais acessíveis e intuitivos, contribuindo para uma análise mais clara da realidade econômica local e auxiliando na compreensão das informações.
 # Índice
-* [Equipe](#Equipe)
 * [Objetivo do Projeto](#objetivo-do-projeto)
 * [Backlog do Produto](#Backlog-do-Produto)
 * [Registro das Sprints](#Registro-das-Sprints)
 * [Competências Desenvolvidas](#competências-desenvolvidas)
+* * [Equipe](#Equipe)
 
 
 
