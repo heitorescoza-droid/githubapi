@@ -43,7 +43,7 @@ Filtro por setor
 
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
-|--------|----------------------------------------------|----------|
+
 | 01     | [Funcionalidade X, Y]                        | Concluído|
 | 02     | [Funcionalidade Z]                           | Em andamento |
 
