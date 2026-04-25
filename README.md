@@ -6,10 +6,10 @@
 Este projeto tem como proposta analisar o ecossistema econômico de São José dos Campos por meio de dados da base RAIS (Relação Anual de Informações Sociais). A ideia surge da necessidade de organizar e facilitar a interpretação dessas informações, que geralmente estão disponíveis em formato bruto e de difícil compreensão. Para isso, será desenvolvido um dashboard interativo, com o objetivo de transformar os dados em gráficos e visualizações que permitam identificar os principais setores econômicos da região e a distribuição de empregos,  o projeto busca tornar os dados mais acessíveis e intuitivos, contribuindo para uma análise mais clara da realidade econômica local e auxiliando na compreensão das informações.
 # Índice
 * [Objetivo do Projeto](#objetivo-do-projeto)
-* [Backlog do Produto](#Backlog-do-Produto)
-* [Registro das Sprints](#Registro-das-Sprints)
-* [Competências Desenvolvidas](#competências-desenvolvidas)
-* [Equipe](#Equipe)
+* [Backlog do Produto](#backlog-do-produto)
+* [Cronograma de evolução do Projeto](#cronograma-de-evolução-do-projeto)
+* [Registro das Sprints](#registro-das-sprints)
+* [Equipe](#equipe)
 
 
 
@@ -47,8 +47,19 @@ A proposta é transformar dados brutos em informações visuais que permitam:
 | 9   | Média      | Como gestor público, quero visualizar a distribuição geográfica dos setores                                                                                    |           | 03      |
 | 10   | Baixa      | Como gestor público, quero exportar dados e relatórios                                                                                                         |           | 03      |
 
+# Cronograma de evolução do Projeto
+## Primeira entrega 
 
-  
+| Tarefas            | Colaborador   | Início   | Fim  | 
+|-------------------|------------|----------|-----------|  
+| Criar e organizar o backlog do produto | Equipe	  | 26/03   |	13/04
+| Configurar e organizar o GitHub |	Maria Eduarda / Julia |	10/04	| 26/04
+|Coletar dados da base RAIS| Equipe   |	09/04	| 15/04
+|Organizar dados da base RAIS| Equipe | 15/04| 20/04
+|Tratar e limpar os dados no Python| Heitor|	15/04	| 20/04
+| Criar dashboard inicial no Power BI| 	Rosario/João Pedro|	20/04 |	26/04
+
+
 # Registro das Sprints
 
 | Sprint            | Previsão   | Status   | Histórico |
