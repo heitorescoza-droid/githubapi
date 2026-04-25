@@ -57,7 +57,7 @@ A proposta é transformar dados brutos em informações visuais que permitam:
 |Coletar dados da base RAIS| Equipe   |	09/04	| 15/04
 |Organizar dados da base RAIS| Equipe | 15/04| 20/04
 |Tratar e limpar os dados no Python| Heitor|	15/04	| 20/04
-| Criar dashboard inicial no Power BI| 	Rosario/João Pedro|	20/04 |	26/04
+| Criar dashboard inicial no Power BI| 	Rosario/João Pedro|	20/04 |	25/04
 
 
 # Registro das Sprints
