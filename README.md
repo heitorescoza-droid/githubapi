@@ -52,7 +52,7 @@ A proposta é transformar dados brutos em informações visuais que permitam:
 
 | Tarefas            | Colaborador   | Início   | Fim  | 
 |-------------------|------------|----------|-----------|  
-| Criar e organizar o backlog do produto | Equipe	  | 26/03   |	13/04
+| Criar e organizar o backlog do produto | Heitor	  | 26/03   |	13/04
 | Configurar e organizar o GitHub |	Maria Eduarda / Julia |	10/04	| 26/04
 |Coletar dados da base RAIS| Equipe   |	09/04	| 15/04
 |Organizar dados da base RAIS| Equipe | 15/04| 20/04
