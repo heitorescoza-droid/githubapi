@@ -49,13 +49,13 @@ O foco é entregar uma ferramenta simples, funcional e intuitiva, que permita ao
 
 ## 📊 Critérios de Aceitação
 - O MVP deve permitir que o usuário visualize um dashboard inicial com os dados da base RAIS tratados e organizados sobre os setores industriais e de serviços
-- O sistema deve registrar [evento importante]  
-- Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]  
+- O sistema deve registrar acesso ao dashboard
+- Métricas coletadas: interação com filtros e gráficos
 
 ---
 
 ## 📈 Métricas de Validação
-- Número de usuários que testaram o MVP  5
+- Número de usuários que testaram o MVP  
 - Feedback qualitativo (positivo/negativo)  
 - Indicadores de negócio (exemplo: % de adesão, redução de custo, etc.)  
 
