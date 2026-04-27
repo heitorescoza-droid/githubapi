@@ -72,6 +72,8 @@ https://drive.google.com/drive/folders/1jxqwt6ccLqApcMGWaJxlx-2_8aRxQwMk?hl=pt-b
 
 [API02.xlsx](https://github.com/user-attachments/files/27123941/API02.xlsx)
 
+[Google Colab](https://colab.research.google.com/drive/19rVUF8yfg39caMewE8Stv6db7frOWpBE?hl=pt_BR)
+
 https://canva.link/9081ej1fs41mohg
 
 <img width="500" height="250" alt="Image 2026-04-27 at " src="https://github.com/user-attachments/assets/9d00f425-33ae-4e83-beec-3828e3ef71fe" />
