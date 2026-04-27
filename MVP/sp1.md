@@ -72,3 +72,5 @@ https://drive.google.com/drive/folders/1jxqwt6ccLqApcMGWaJxlx-2_8aRxQwMk?hl=pt-b
 
 [API02.xlsx](https://github.com/user-attachments/files/27123941/API02.xlsx)
 
+https://canva.link/9081ej1fs41mohg
+
