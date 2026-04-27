@@ -68,13 +68,21 @@ O foco é entregar uma ferramenta simples, funcional e intuitiva, que permita ao
 ---
 
 ## 📂 Anexos / Evidências
-https://drive.google.com/drive/folders/1jxqwt6ccLqApcMGWaJxlx-2_8aRxQwMk?hl=pt-br
 
-[API02.xlsx](https://github.com/user-attachments/files/27123941/API02.xlsx)
+### Drive
+[Drive](https://drive.google.com/drive/folders/1jxqwt6ccLqApcMGWaJxlx-2_8aRxQwMk?hl=pt-br)
 
+### Excel
+[Excel](https://github.com/user-attachments/files/27123941/API02.xlsx)
+
+### Google Colab
 [Google Colab](https://colab.research.google.com/drive/19rVUF8yfg39caMewE8Stv6db7frOWpBE?hl=pt_BR)
 
-https://canva.link/9081ej1fs41mohg
+### Apresentação
+[Canva](https://canva.link/9081ej1fs41mohg)
+
+### Power BI
+[POWER BI](https://app.powerbi.com/view?r=eyJrIjoiOGE0Y2VjNzAtODBhNC00OTdkLWFmNTEtYTliMTk4NzY2Njc4IiwidCI6ImVhYmU2NGM1LTY4ZjUtNGE3Ni04MzAxLTk1NzdhNjc5ZTQ0OSIsImMiOjR9)
 
 <img width="500" height="250" alt="Image 2026-04-27 at " src="https://github.com/user-attachments/assets/9d00f425-33ae-4e83-beec-3828e3ef71fe" />
 
