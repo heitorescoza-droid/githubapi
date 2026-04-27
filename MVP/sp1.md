@@ -68,6 +68,5 @@ O foco é entregar uma ferramenta simples, funcional e intuitiva, que permita ao
 ---
 
 ## 📂 Anexos / Evidências
-- Prints de tela  
-- Fluxos ou protótipos  
-- Vídeo (MVP)  
+[API02.xlsx](https://github.com/user-attachments/files/27123941/API02.xlsx)
+
