@@ -24,9 +24,7 @@ Nesta etapa, será desenvolvido o tratamento e organização de dados econômico
 O foco é entregar uma ferramenta simples, funcional e intuitiva, que permita ao gestor público acessar rapidamente informações consolidadas e compreender o panorama econômico sem a necessidade de manipulação manual de dados. Essa primeira versão prioriza clareza, usabilidade e geração de insights básicos, servindo como base para evoluções futuras mais robustas.
 
 ## 👥 Personas / Usuários-Alvo
-- **Persona 1:** breve descrição, necessidades e dores atendidas  
-- **Persona 2:** breve descrição, necessidades e dores atendidas  
-
+- **Persona 1:** gestor público, necessidade de criar uma solução voltada à análise e visualização de dados, capaz de identificar e organizar informações referentes aos principais setores industriais e de serviços da região de São José dos Campos.
 ---
 
 ## 🔑 User Stories (Backlog do MVP)
