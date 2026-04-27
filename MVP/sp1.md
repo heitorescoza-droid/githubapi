@@ -74,3 +74,6 @@ https://drive.google.com/drive/folders/1jxqwt6ccLqApcMGWaJxlx-2_8aRxQwMk?hl=pt-b
 
 https://canva.link/9081ej1fs41mohg
 
+<img width="500" height="250" alt="Image 2026-04-27 at " src="https://github.com/user-attachments/assets/9d00f425-33ae-4e83-beec-3828e3ef71fe" />
+
+
