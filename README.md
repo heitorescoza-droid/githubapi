@@ -30,6 +30,7 @@ A proposta é transformar dados brutos em informações visuais que permitam:
 * Microsoft Excel
 * Power BI
 * Python (Colab)
+* Git Hub
 
 
 # Backlog do Produto
