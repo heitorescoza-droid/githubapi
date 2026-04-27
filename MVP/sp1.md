@@ -64,7 +64,8 @@ O foco é entregar uma ferramenta simples, funcional e intuitiva, que permita ao
 ## 🚀 Próximos Passos
 - Transformar a usabilidade em dashboard interativo; 
 - Relacionar os dados qualitativos e quantitativos, gerando hipóteses a serem respondidas pelo sistema elaborado; 
-- Expansão de funcionalidades para próximo incremento  
+- Expandir as funcionalidades do dashboard interativo;
+- Adição de material relevante ao cliente. 
 
 ---
 
