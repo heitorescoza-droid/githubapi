@@ -25,8 +25,10 @@
 ## 🔑 User Stories (Backlog do MVP)
 | ID  | User Story                                                                 | Prioridade | Estimativa |
 |-----|-----------------------------------------------------------------------------|------------|------------|
-| US1 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Alta       | 5 pontos   |
-| US2 | Como [tipo de usuário], quero [objetivo] para [benefício esperado].         | Média      | 3 pontos   |
+| US1 | Como gestor público, quero visualizar gráficos simples com os dados econômicos para facilitar a interpretação das informações apresentadas | Alta | |
+| US2| Como gestor público, quero comparar setores econômicos por meio de análises visuais para compreender as diferenças entre eles | Média |  |
+| US3| Como gestor público, quero calcular indicadores econômicos automaticamente para enriquecer e complementar a análise dos dados | Média | |
+|US4| Como gestor público, quero visualizar dados de forma mais detalhada para obter informações mais completas durante a análise | Média | |
 
 ---
 
@@ -62,4 +64,6 @@
 ## 📂 Anexos / Evidências
 - Prints de tela  
 - Fluxos ou protótipos  
-- Vídeo (MVP)  
+- Vídeo (MVP)
+- 
+[Relatório](https://docs.google.com/document/d/1ji9N9pI5LIdRHav7QB_vb4wZeutduHOPYBNqc8nOPGo/edit?usp=sharing)
