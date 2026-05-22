@@ -73,8 +73,8 @@ A proposta é transformar dados brutos em informações visuais que permitam:
 | Validar dados e consistência dos indicadores no dashboard | Equipe | 20/05 | 22/05 |
 | Filtrar dados complementares da base RAIS | Heitor | 22/05 | 22/05 |
 | Adicionar dados complementares ao dashboard | Rosário | 22/05 | 22/05 |
-| Elaborar respostas das questões do projeto (análise dos dados) | Anna Júlia / Julia / Maria Eduarda | 15/05 | 22/05 |
-| Estruturar e escrever o relatório descritivo | Julia / Maria Eduarda | 15/05 | 22/05 |
+| Elaborar respostas das questões do projeto (análise dos dados) | Anna Júlia / Julia / Maria Eduarda | 15/05 | 23/05 |
+| Estruturar e escrever o relatório descritivo | Julia / Maria Eduarda | 15/05 | 23/05 |
 
 
 # Registro das Sprints
