@@ -61,6 +61,19 @@ A proposta é transformar dados brutos em informações visuais que permitam:
 | Criar dashboard inicial no Power BI| 	Rosario/João Pedro|	20/04 |	25/04
 
 
+## Segunda Entrega
+
+| Tarefas | Colaborador | Início | Fim  |
+|--------|------------|--------| ---------- |
+| Revisar e ajustar a base RAIS (correções) | Heitor | 06/05 | 08/05 |
+| Criar e validar indicadores (emprego, vínculos) | João Pedro | 08/05 | 09/05 |
+| Desenvolver e finalizar o dashboard (gráficos principais) | Rosario | 08/05 | 15/05 |
+| Implementar comparações entre setores e filtros no dashboard | Rosario | 15/05 | 20/05 |
+| Validar dados e consistência dos indicadores no dashboard | Equipe | 20/05 | 22/05 |
+| Elaborar respostas das questões do projeto (análise dos dados) | Anna Júlia / Julia / Maria Eduarda | 15/05 | 22/05 |
+| Estruturar e escrever o relatório descritivo | Julia / Maria Eduarda | 15/05 | 22/05 |
+
+
 # Registro das Sprints
 
 | Sprint            | Previsão   | Status   | Histórico |
