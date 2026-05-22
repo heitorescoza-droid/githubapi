@@ -67,9 +67,12 @@ A proposta é transformar dados brutos em informações visuais que permitam:
 |--------|------------|--------| ---------- |
 | Revisar e ajustar a base RAIS (correções) | Heitor | 06/05 | 08/05 |
 | Criar e validar indicadores (emprego, vínculos) | João Pedro | 08/05 | 09/05 |
+| Filtrar dados adicionais da base RAIS | Heitor | 22/05 | 22/05 |
 | Desenvolver e finalizar o dashboard (gráficos principais) | Rosario | 08/05 | 15/05 |
 | Implementar comparações entre setores e filtros no dashboard | Rosario | 15/05 | 20/05 |
 | Validar dados e consistência dos indicadores no dashboard | Equipe | 20/05 | 22/05 |
+| Filtrar dados complementares da base RAIS | Heitor | 22/05 | 22/05 |
+| Adicionar dados complementares ao dashboard | Rosário | 22/05 | 22/05 |
 | Elaborar respostas das questões do projeto (análise dos dados) | Anna Júlia / Julia / Maria Eduarda | 15/05 | 22/05 |
 | Estruturar e escrever o relatório descritivo | Julia / Maria Eduarda | 15/05 | 22/05 |
 
