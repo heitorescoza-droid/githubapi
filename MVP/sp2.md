@@ -101,7 +101,12 @@ Grande volume de informações econômicas
 - Fluxos ou protótipos  
 - Vídeo (MVP)
 - 
+
+### Relatório 
+
 [Relatório](https://docs.google.com/document/d/1ji9N9pI5LIdRHav7QB_vb4wZeutduHOPYBNqc8nOPGo/edit?usp=sharing)
+
+### Apresentação
 
 [Apresentação](https://www.canva.com/design/DAHHxSumxgA/WwhC5Xso6QPUZ6dmTKyoHA/edit)
 
