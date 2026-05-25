@@ -1,24 +1,54 @@
 # 📌 MVP - [Nome do Projeto]
 
 ## 🎯 Objetivo do MVP
-> Descrever de forma clara qual é o propósito do MVP:  
-- Qual problema resolve?  
-- Qual hipótese será validada?  
-- Qual valor será entregue ao usuário final?  
+O MVP tem como objetivo desenvolver uma solução inicial capaz de organizar, visualizar e interpretar dados econômicos da região do Vale do Paraíba e Litoral Norte por meio de dashboards interativos.
+
+A proposta busca resolver a dificuldade de análise e interpretação de grandes volumes de dados econômicos presentes na base RAIS, facilitando a visualização das informações para apoio à tomada de decisão.
+
+A hipótese validada é que a utilização de gráficos interativos e análises visuais pode tornar os dados econômicos mais acessíveis, organizados e compreensíveis para gestores públicos e usuários interessados na análise regional.
+
+O valor entregue ao usuário final será a possibilidade de visualizar informações econômicas de forma prática, intuitiva e comparativa, permitindo melhor compreensão dos setores produtivos da região.
 
 ---
 
 ## 📝 Descrição da Solução
-> Breve explicação do que será desenvolvido e entregue nesta etapa.  
-- Funcionalidades principais incluídas  
-- Limitações conhecidas  
-- Escopo reduzido (somente o essencial para validar a ideia)  
+O projeto consiste no desenvolvimento de um dashboard interativo utilizando Power BI, integrado a dados tratados da base RAIS.
+
+Nesta etapa do MVP serão desenvolvidas funcionalidades essenciais para validação da proposta, incluindo visualizações gráficas, comparações entre setores econômicos e análise regional dos municípios estudados.
+
+### Funcionalidades principais incluídas
+
+Visualização de gráficos de barras e pizza
+
+Comparação entre municípios e setores econômicos
+
+Visualização geográfica por mapa
+
+Análise de macroprocessos produtivos
+
+Filtros interativos para análise dos dados
+
+### Limitações conhecidas
+Utilização de uma base de dados limitada
+Dados concentrados em municípios específicos
+Ausência de indicadores econômicos mais avançados
+
+### Escopo reduzido
+
+O MVP contempla apenas funcionalidades essenciais para validação da análise visual e interpretação dos dados econômicos regionais.
 
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Persona 1:** breve descrição, necessidades e dores atendidas  
-- **Persona 2:** breve descrição, necessidades e dores atendidas  
+- **Persona 1:** Gestor Público - Responsável por interpretar dados econômicos regionais para apoio à tomada de decisão.
+Necessidades:
+Visualizar informações organizadas
+Identificar setores econômicos relevantes
+Facilitar análises regionais
+Dores atendidas:
+Dificuldade de interpretação de dados brutos
+Falta de visualizações intuitivas
+Grande volume de informações econômicas
 
 ---
 
@@ -35,15 +65,17 @@
 ## 📅 Sprint(s) Relacionadas
 | Sprint | Entregas Principais                          | Status   |
 |--------|----------------------------------------------|----------|
-| 01     | [Funcionalidade X, Y]                        | Concluído|
-| 02     | [Funcionalidade Z]                           | Em andamento |
+|01|	Organização do GitHub, coleta e tratamento dos dados, estruturação inicial do dashboard|	Concluído|
+|02|	Desenvolvimento dos gráficos, análises comparativas e indicadores econômicos|	Concluído|
 
 ---
 
 ## 📊 Critérios de Aceitação
-- O MVP deve permitir que o usuário [ação principal]  
-- O sistema deve registrar [evento importante]  
-- Métricas coletadas: [exemplo: tempo de resposta, taxa de uso]  
+- O MVP deve permitir visualização interativa dos dados econômicos
+
+- O sistema deve apresentar gráficos comparativos entre municípios e setores, o dashboard deve permitir filtros e análises específicas
+- O usuário deve conseguir interpretar os principais setores produtivos regionais
+- Métricas coletadas: Quantidade de gráficos funcionais, Tempo de carregamento do dashboard, Facilidade de interpretação visual
 
 ---
 
@@ -55,9 +87,12 @@
 ---
 
 ## 🚀 Próximos Passos
-- Melhorias planejadas após feedback  
-- Ajustes de usabilidade  
-- Expansão de funcionalidades para próximo incremento  
+- Adicionar novos indicadores econômicos
+- Melhorar visualmente o dashboard
+- Focar em dados da metalurgia
+- Implementar análises mais detalhadas
+- Aprimorar filtros interativos
+- Desenvolver visualizações mais avançadas
 
 ---
 
@@ -67,3 +102,5 @@
 - Vídeo (MVP)
 - 
 [Relatório](https://docs.google.com/document/d/1ji9N9pI5LIdRHav7QB_vb4wZeutduHOPYBNqc8nOPGo/edit?usp=sharing)
+
+[Apresentação](https://www.canva.com/design/DAHHxSumxgA/WwhC5Xso6QPUZ6dmTKyoHA/edit)
