@@ -104,3 +104,12 @@ Grande volume de informações econômicas
 [Relatório](https://docs.google.com/document/d/1ji9N9pI5LIdRHav7QB_vb4wZeutduHOPYBNqc8nOPGo/edit?usp=sharing)
 
 [Apresentação](https://www.canva.com/design/DAHHxSumxgA/WwhC5Xso6QPUZ6dmTKyoHA/edit)
+
+### Drive
+[Drive](https://drive.google.com/drive/folders/1jxqwt6ccLqApcMGWaJxlx-2_8aRxQwMk?hl=pt-br)
+
+### Google Colab
+[Google Colab](https://colab.research.google.com/drive/19rVUF8yfg39caMewE8Stv6db7frOWpBE?hl=pt_BR)
+
+### Power BI
+[Power BI](https://app.powerbi.com/view?r=eyJrIjoiNTI0OWE5MzEtMzhiZS00MzVjLWI1MDktYmE3NWE4Zjg0NzBmIiwidCI6ImVhYmU2NGM1LTY4ZjUtNGE3Ni04MzAxLTk1NzdhNjc5ZTQ0OSIsImMiOjR9)
