@@ -83,7 +83,7 @@ A proposta é transformar dados brutos em informações visuais que permitam:
 | 01                | 27/04/2026 | Concluído  | [MVP](MVP/sp1.md)  |
 | 02                | 25/05/2026 | Concluído  | [MVP](MVP/sp2.md)  |
 | 03                | 15/06/2026 | Em andamento  | [MVP](MVP/sp3.md)  |
-| Feira de Soluções | 18/06/2026 | Pendente  | [MVP](#)  |
+| Feira de Soluções | 18/06/2026 | Em andamento  | [MVP](#)  |
 
 
 
