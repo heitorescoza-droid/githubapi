@@ -17,8 +17,7 @@
 ---
 
 ## 👥 Personas / Usuários-Alvo
-- **Persona 1:** breve descrição, necessidades e dores atendidas  
-- **Persona 2:** breve descrição, necessidades e dores atendidas  
+- **Persona 1:** Gestor Público - Responsável por interpretar dados econômicos regionais para apoio à tomada de decisão. Necessidades: Visualizar informações organizadas Identificar setores econômicos relevantes Facilitar análises regionais Dores atendidas: Dificuldade de interpretação de dados brutos Falta de visualizações intuitivas Grande volume de informações econômicas
 
 ---
 
