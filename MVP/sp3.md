@@ -89,6 +89,5 @@ Esta versão representa um avanço significativo na maturidade da solução, ent
 ### Power BI
 [Power BI](https://app.powerbi.com/view?r=eyJrIjoiNTI0OWE5MzEtMzhiZS00MzVjLWI1MDktYmE3NWE4Zjg0NzBmIiwidCI6ImVhYmU2NGM1LTY4ZjUtNGE3Ni04MzAxLTk1NzdhNjc5ZTQ0OSIsImMiOjR9)
 
-
 ---
   
